@@ -1,0 +1,8 @@
+node_modules
+dotenv
+.env
+test.js
+for.js
+.wwebjs_auth/session/Default/GPUCache/data_2
+.wwebjs_cache
+session
